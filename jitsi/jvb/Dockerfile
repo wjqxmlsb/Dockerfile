@@ -1,0 +1,1 @@
+FROM jitsi/jvb:stable-8719

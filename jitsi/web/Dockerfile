@@ -1,0 +1,1 @@
+FROM jitsi/web:stable-8719
